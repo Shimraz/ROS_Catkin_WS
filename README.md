@@ -11,5 +11,7 @@ Basic of server and Client Node
 
 Cleaning Robot using turtle bot
 
-Percepetion related projects
+Percepetion through OpenCV and track the ball
+
+Perception through Laser Scan
 
