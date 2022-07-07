@@ -1,10 +1,3 @@
-/*
- * Author: Anis Koubaa for Gaitech EDU
- * Year: 2016
- *
- */
-
-
 #include "ros/ros.h"
 #include "std_msgs/String.h"
 #include <sstream>
